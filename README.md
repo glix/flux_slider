@@ -340,3 +340,6 @@ Here are some guidelines for writing transitions if you'd like to have them cons
 # License
 
 Flux is Copyright &copy; 2011 [Joe Lambert](http://www.joelambert.co.uk) and is licensed under the terms of the [MIT License](http://www.opensource.org/licenses/mit-license.php).
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/glix/flux_slider/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
